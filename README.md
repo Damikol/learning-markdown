@@ -20,3 +20,8 @@ document.getElementById("demo").innerHTML = (5 + 6) * 10;
 </body>
 </html>
 ```
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
